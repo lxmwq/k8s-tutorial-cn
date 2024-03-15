@@ -95,3 +95,10 @@ Kubernetes Ingress:
 ### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=chaseSpace/k8s-tutorial-cn&type=Date)](https://star-history.com/#chaseSpace/k8s-tutorial-cn&Date)
+
+### Donate Or Contact
+
+如果这个Markdown项目真的帮助到了你，你可以考虑请我喝杯咖啡☕️。如有问题或建议也可以加我微信好友进行交流，备注“k8s”即可。
+<div align="left">
+    <img src="./img/wx-pay-qrcode.jpg" width="320" height="330" alt="微信支付二维码"/> <a></a> <img src="./img/wx-qrcode.jpg" width="320" height="330"  alt="微信二维码"/>
+</div>
